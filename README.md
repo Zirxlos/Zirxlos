@@ -3,7 +3,7 @@
 
 I am Shawn Ives, a trained material scientist who wants to move to the world of IT.
 I have always been interest in CS and always was trying to troubleshoot my computer from a young age.
-During my studies, I had experience with some scientifical programming language like Maple and Scilab and I was always keen on using them in university projects. Somehow, I did not make the connection yet that I really enjoyed programming.
+During my studies, I had experience with some scientifical programming language like Maple and Scilab and I was always keen on using them in university projects.
 
 ### What I am currently doing to learn
 
