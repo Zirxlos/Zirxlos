@@ -14,6 +14,9 @@ Although many concepts were not unknown to me, I really loved to be able to star
 
 Apart from this, my focus currently lies on deepening my knowledge of programming itself to not depend on one programming language but be able to work in different kinds of frameworks or teams.
 
+### Visit my website
+
+[My website](https://zirxlos.github.io/mywebsite/)
 
 ### Get in touch we me
 
