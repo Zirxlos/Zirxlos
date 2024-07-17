@@ -20,7 +20,7 @@ Apart from this, my focus currently lies on deepening my knowledge of programmin
 
 ### Get in touch we me
 
-- [LinkedIn](https://www.linkedin.com/in/shawn-ives-b8431594/)
+[LinkedIn](https://www.linkedin.com/in/shawn-ives-b8431594/)
 
 <!---
 Zirxlos/Zirxlos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
